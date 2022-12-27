@@ -1,3 +1,4 @@
+#game adopts some idea from the pokemon games all the stats and information are hypothetical
 import random
 import time
 print(" ______   _____    ___   ____  __    __   _____   __   __             ")
