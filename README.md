@@ -8,22 +8,22 @@ This repo is a collection of few console based applications that i made while le
 
 ### Pokemon game
 
-![App Screenshot](https://github.com/NukeVdnt/Simple-Projects/blob/main/snapshots/pokemon.png)
+![App Screenshot](/snapshots/pokemon.png)
 
 ### Cal 
 
 #### Cal (Cpp)
 
-![App Screenshot](https://github.com/NukeVdnt/Simple-Projects/blob/main/snapshots/calcpp.png)
+![App Screenshot](/snapshots/calcpp.png)
 
 #### Cal (Py)
 
-![App Screenshot](https://github.com/NukeVdnt/Simple-Projects/blob/main/snapshots/calpy.png)
+![App Screenshot](/snapshots/calpy.png)
 
 ### Number Guesser
 
-![App Screenshot](https://github.com/NukeVdnt/Simple-Projects/blob/main/snapshots/numguess.png)
+![App Screenshot](snapshots/numguess.png)
 
 ### Rock Paper Scissors
 
-![App Screenshot](https://github.com/NukeVdnt/Simple-Projects/blob/main/snapshots/rockpapersci.png)
+![App Screenshot](snapshots/rockpapersci.png)
