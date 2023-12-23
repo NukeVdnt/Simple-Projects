@@ -25,5 +25,4 @@ This repo is a collection of few console based applications that i made while le
 ![App Screenshot](snapshots/numguess.png)
 
 ### Rock Paper Scissors
-
-![App Screenshot](https://raw.githubusercontent.com/NukeVdnt/Simple-Projects/snapshots/rockpapersci.png)
+<img src="snapshots/rockpapersci.png" />
