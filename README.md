@@ -18,11 +18,11 @@ This repo is a collection of few console based applications that i made while le
 
 #### Cal (Py)
 
-![App Screenshot](/snapshots/calpy.PNG)
+![App Screenshot](/snapshots/calpy.png)
 
 ### Number Guesser
 
 ![App Screenshot](snapshots/numguess.png)
 
 ### Rock Paper Scissors
-<img src="snapshots/rockpapersci.PNG" width="800" height="500"/>
+![App Screenshot](snapshots/numguess.png)
