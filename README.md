@@ -26,4 +26,4 @@ This repo is a collection of few console based applications that i made while le
 
 ### Rock Paper Scissors
 
-![App Screenshot](snapshots/rockpapersci.png)
+![App Screenshot](https://raw.githubusercontent.com/NukeVdnt/Simple-Projects/main/snapshots/rockpapersci.png)h
