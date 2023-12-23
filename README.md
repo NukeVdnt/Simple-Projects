@@ -8,21 +8,21 @@ This repo is a collection of few console based applications that i made while le
 
 ### Pokemon game
 
-![App Screenshot](/snapshots/pokemon.png)
+![App Screenshot](/snaps/pokemon.jpg)
 
 ### Cal 
 
 #### Cal (Cpp)
 
-![App Screenshot](/snapshots/calcpp.png)
+![App Screenshot](/snaps/calcpp.jpg)
 
 #### Cal (Py)
 
-![App Screenshot](/snapshots/calpy.png)
+![App Screenshot](/snaps/calpy.jpg)
 
 ### Number Guesser
 
-![App Screenshot](snapshots/numguess.png)
+![App Screenshot](snaps/numguess.jpg)
 
 ### Rock Paper Scissors
-![App Screenshot](snapshots/numguess.png)
+![App Screenshot](snaps/numguess.jpg)
